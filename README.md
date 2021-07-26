@@ -64,7 +64,8 @@ $ cd study-manager
 $ npm install
     
 
-#Criando comandos do banco de dados para importar
+#Arquivos para importação do banco de dados ainda em criação
+#Ainda não disponivel para download
 
 # Crie e importe o banco de dados
 $ psql -U postgres -c "CREATE DATABASE studymanager"
